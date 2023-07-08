@@ -7,7 +7,7 @@ headers = {
 }
 
 pdf_urls = [
-    "https://dyrassa.com/wp-content/uploads/2021/04/conversion-de-lenergie-par-le-muscle-strie-cours-prof-taha-watermark.pdf"
+    "https://dyrassa.com/wp-content/uploads/2022/08/Reactions-responsables-de-la-Liberation-de-lenergie-emmagasinee-dans-la-matiere-organique-PDF-5.pdf"
 ]
 
 add_url_endpoint = 'https://api.chatpdf.com/v1/sources/add-url'
