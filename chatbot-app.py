@@ -7,7 +7,7 @@ headers = {
 }
 
 pdf_urls = [
-    "https://dyrassa.com/wp-content/uploads/2022/08/Reactions-responsables-de-la-Liberation-de-lenergie-emmagasinee-dans-la-matiere-organique-PDF-5.pdf"
+    "https://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/35920726.pdf"
 ]
 
 add_url_endpoint = 'https://api.chatpdf.com/v1/sources/add-url'
