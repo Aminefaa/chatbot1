@@ -7,7 +7,7 @@ headers = {
 }
 
 pdf_urls = [
-    "https://drive.google.com/file/d/1cn39kYs1gkpivJlS_rmTU7Us5k2OhLbG/view?usp=sharing"
+    "https://maroon-tami-18.tiiny.site"
 ]
 
 add_url_endpoint = 'https://api.chatpdf.com/v1/sources/add-url'
