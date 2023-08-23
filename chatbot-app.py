@@ -7,7 +7,7 @@ headers = {
 }
 
 pdf_urls = [
-    "https://ia801302.us.archive.org/23/items/meditationsofmar00marc_0/meditationsofmar00marc_0.pdf"
+    "https://drive.google.com/file/d/1cn39kYs1gkpivJlS_rmTU7Us5k2OhLbG/view?usp=sharing"
 ]
 
 add_url_endpoint = 'https://api.chatpdf.com/v1/sources/add-url'
