@@ -7,7 +7,7 @@ headers = {
 }
 
 pdf_urls = [
-    "https://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/35920726.pdf"
+    "https://ia801302.us.archive.org/23/items/meditationsofmar00marc_0/meditationsofmar00marc_0.pdf"
 ]
 
 add_url_endpoint = 'https://api.chatpdf.com/v1/sources/add-url'
